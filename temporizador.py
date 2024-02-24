@@ -18,4 +18,4 @@ while True:
 
         print(tempodesdoinicio)
 
-#made by https://github.com/ANT0NI0737BR/codigos.git
+#made by https://github.com/ANT0NI0737BR
