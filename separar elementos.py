@@ -49,7 +49,7 @@ def indetificarEL(x):
 
         if identificado[len(identificado)-1:] in umanove:  
 
-            Index.append( pesos[int(elementos.index(identificado[:len(identificado)-1]))] * int(identificado[len(identificado):]) )
+            Index.append( pesos[int(elementos.index(identificado[:len(identificado)-1]))] * int(identificado[len(identificado)-1:]) )
 
         else:
         
